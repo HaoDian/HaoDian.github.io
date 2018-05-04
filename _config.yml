@@ -20,13 +20,13 @@ footer:
 author: '湖南豪典软件有限公司'
 nickname: '豪典软件'
 bio: '做中国最好的门窗幕墙软件'
-avatar: '/assets/img/profile.png'
+avatar: '/assets/img/hdprofile.png'
 
 # Search
 search: true
 
 # Night mode
-nightMode: true
+nightMode: false
 
 # Comments 评论功能
 comments:
