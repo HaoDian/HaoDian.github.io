@@ -2,7 +2,7 @@
 title: '豪典门窗幕墙软件开发博客'
 description: '浏览查看豪典软件开发最新的路线图、愿望清单，开发预览和升级等动态和信息。'
 keyword: '豪典，门窗幕墙设计软件，门窗幕墙管理软件，门窗幕墙行业ERP，门窗幕墙计算软件'
-url: 'haodian.github.io' # your host
+url: # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
